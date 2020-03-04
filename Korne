@@ -1,0 +1,2 @@
+
+git clone https://github.com/MAXTELEE/MAX.git ;cd MAX;sudo chmod +x ins;sudo chmod +x run;sudo ./ins install
